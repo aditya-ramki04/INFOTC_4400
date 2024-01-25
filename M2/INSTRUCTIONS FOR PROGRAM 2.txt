@@ -1,0 +1,8 @@
+INSTRUCTIONS FOR PROGRAM 2
+
+Since we have a dataset of 5000 numbers I didnt use the ReadLine method that would take forever to input each number
+Instead I just used file reading and read from the case8.in file from your testdata folder
+I put case8.in file in the bin/debug folder so just regularly running the program should work
+In the program I did print out the full sorted array
+The last line shows the elapsed time for quicksort in milliseconds
+I found the stopwatch class on the internet
